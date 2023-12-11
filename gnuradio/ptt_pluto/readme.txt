@@ -1,0 +1,2 @@
+- Run FMRecvTransmit_functional_config.grc in gnuradio-companion.
+- Observe it
